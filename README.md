@@ -57,8 +57,6 @@
   <sub>También: Java · XML · XHTML · PowerShell · Shopify · Wix · Claude Code · Copilot · Cursor</sub>
 </p>
 
----
-
 ## 📫 Contacto
 
 <p align="center">
@@ -66,10 +64,12 @@
   <a href="mailto:Nicolas.arribas.jim@gmail.com?subject=Hola%20Nicol%C3%A1s"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
 </p>
 
-<p align="center">📍 Madrid, España</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-arribas-jim%C3%A9nez-42479341b/" target="_blank">
     <img src="https://img.shields.io/badge/Conecta_conmigo_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
   </a>
 </p>
+
+<p align="center">📍 Madrid, España</p>
+
+
