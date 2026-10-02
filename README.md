@@ -1,76 +1,93 @@
-<!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
+<!-- Si te ha gustado, considera darle una estrella al repositorio. -->
 
-  <!-- Welcome -->
-<h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <!-- Bienvenida -->
+<h1 align="center">Hola, soy Nicolás <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <!-- Typing Text -->
+  <!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=520&lines=%3E+Soy+Desarrollador+Full+Stack+Junior.;%3E+JavaScript+%7C+PHP+%7C+SQL+%7C+MongoDB.;%3E+Buscando+mi+primera+oportunidad+Backend+%2F+Full+Stack.">
 </p>
 
-  <!-- Profile Picture -->
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
-
-  <!-- Description -->
+  <!-- Descripción -->
 ```diff
-🛠️ +5 years of professional experience.
-+  ✔️ Responsible worker.
-#  👨‍💻 Information Technology Engineer (ITI).
--  🚀 Optimizing web pages.
-!  ✨ If you can imagine it, you can program it. 
-@@ 💻Solving problems from a self-built computer.@@
++ 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW).
++ 💻 Base en JavaScript, PHP, SQL y MongoDB.
+# 🛠️ Prácticas como Full Stack en el CAT de la Universidad Rey Juan Carlos.
+- 🎧 Experiencia previa en soporte técnico y atención al cliente.
+! 🌱 Aprendizaje autónomo de nuevas tecnologías.
+@@ 🚀 Busco mi primera oportunidad como desarrollador Backend o Full Stack Junior. @@
 ```
 
-  <!-- Skills and Tools-->
 ---
+
+## 🧰 Habilidades y herramientas
+
 <table align="center">
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
-        </td>
+        <td><b>Lenguajes</b></td>
         <td>
-          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
-          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
-          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
-          <img src="https://i.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="45" alt="Angular logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript logo" />
-          <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
-          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
-          <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" width="50" alt="Symfony logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-          <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Tools gif">
-        </td>
+        <td><b>Bases de datos</b></td>
         <td>
-          <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
-          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" alt="Postman logo" />
-          <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="Bash logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52" alt="Apache2 logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52" alt="MariaDB logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52" alt="Android Studio logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Herramientas</b></td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50" alt="WordPress" />
         </td>
     </tr>
 </table>
 
-  <!-- Socials -->
-##
-<p align="right">
-  <span>
-    <a target="_blank"><img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" /></a>
-    <a href="mailto:examplem@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
-    <a href="https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
-  </span>
+<p align="center">
+  <sub>También: Java · XML · XHTML · PowerShell · Shopify · Wix · Claude Code · Copilot · Cursor</sub>
 </p>
 
-  <!-- Credits -->
-------
-Credit: [dante-barreda](https://github.com/dante-barreda)
+---
 
-Last Edited on: 25/07/2024
+## 🚀 Proyectos destacados
+
+- **FinishLine** — Proyecto de Fin de Grado (DAW). Aplicación web para la gestión de un taller de pintura, con módulos de usuarios, citas y presupuestos. Diseño e implementación end-to-end: modelado de datos, lógica de negocio e interfaz.
+- **UPF-EERR** — Portal de Procesos de Fabricación y Energías Renovables (URJC). Buscadores de fichas técnicas de maquinaria del taller y de equipos de energías renovables, con indicador de estado de mantenimiento. HTML, CSS y JavaScript en el frontend, con backend propio.
+
+---
+
+## 💼 Experiencia
+
+- **Desarrollador Full Stack (Prácticas)** — CAT, Universidad Rey Juan Carlos (Mar 2026 – Jun 2026). Optimización de algoritmos para reconstrucciones tomográficas y desarrollo de una herramienta web para gestionar el inventario del taller.
+- **Agente de Teleoperaciones y Soporte Técnico (Prácticas)** — ELECNOR (proyecto Telefónica) (Abr 2023 – Jun 2023). Diagnóstico y resolución de incidencias en primer contacto, con carta de recomendación de la empresa.
+
+## 🎓 Formación
+
+- Desarrollo de Aplicaciones Web — IES Enrique Tierno Galván, Madrid (2024 – 2026)
+- Sistemas Microinformáticos y Redes — IES Laguna de Joatzel, Getafe (2021 – 2023)
+
+## 🌍 Idiomas
+
+Español (nativo) · Inglés (intermedio)
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a target="_blank"><img src="https://komarev.com/ghpvc/?username=Niclorrast&style=for-the-badge" alt="Visitas al perfil" height="25" /></a>
+  <a href="mailto:Nicolas.arribas.jim@gmail.com?subject=Hola%20Nicol%C3%A1s"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
+  <!-- Cuando tengas tu URL de LinkedIn, descomenta y pon tu enlace:
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
+  -->
+</p>
+
+<p align="center">📍 Madrid, España</p>
